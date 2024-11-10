@@ -1,0 +1,5 @@
+geoapify_key = "10bd10498687445b82ff5e13dbbacb03"
+omdb_api_key = "d9c473d2"
+nyt_api_key = "HUrUspVonI8W2ifuZ2rNjfQ1mrmGGXlg"
+weather_api_key = "3b4a722ff96f9b4293ba1de01b23f326"
+census_api_key = "7d67a102775ee655558446719ec4093ee4a02e6f"
